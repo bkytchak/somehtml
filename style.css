@@ -1,0 +1,49 @@
+
+@import url(https://fonts.googleapis.com/css?family=Shrikhand);
+
+@import url(https://fonts.googleapis.com/css?family=Poppins);
+
+
+
+h1.ron { 
+  font-family: "Shrikhand", serif;
+  text-align: center;
+  font-size: 60px;
+  color: #c49301;
+  }
+h3.awesome{
+  font-family: "Poppins", sans- serif;
+  font-style: italic;
+  text-align: center;
+  font-size: 20px;
+  color: #ddcd9b;
+}
+h3.Quotes{
+  font-family: "Poppins", sans- serif;
+  font-style: italic;
+  text-align: center;
+  font-size: 50px;
+  color: #ddcd9b;
+}
+body{
+  background-color:#6d0012;
+}
+img.pic1{
+  position: relative;
+  margin: 0 auto;
+  display: block;
+  height: auto;
+  width: auto;
+  padding: 10px;
+}
+ul{
+  text-align: center;
+  color: #c49301;
+  list-style-position: inside;
+  list-style-type: disc;
+}
+h4.link{
+  color: 3a3a3a;
+  text-align: center;
+  font-size: 90%
+}
